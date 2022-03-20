@@ -1,4 +1,4 @@
 ## C-Programming
 ### C programming book list: 
-[Bangla Book](http://cpbook.subeen.com/)
+[কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)
 
