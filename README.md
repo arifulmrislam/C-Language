@@ -5,10 +5,12 @@
 ## প্রোগামিং সমস্যা 
 
 1. প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )
-Dimik Oj -প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )|৫২ টি প্রোগামিং সমস্যা ~ Engineering LAB24
+
+[Dimik Oj -প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )|৫২ টি প্রোগামিং সমস্যা ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj.html)
 
 2. প্রোগামিং সমস্যা - 2 (জোড়-বিজোড় 2)
-Dimik Oj প্রোগামিং সমস্যা - 2 (জোড়-বিজোড় 2) ~ Engineering LAB24
+
+[Dimik Oj প্রোগামিং সমস্যা - 2 (জোড়-বিজোড় 2) ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj-2-2.html)
 
 3. প্রোগামিং সমস্যা - 3 ( অধোগামী সংখ্যা )
 https://engineeringlab24.blogspot.com/2019/10/t-example-output-1000-999-998-997-996.html?m=0
