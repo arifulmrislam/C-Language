@@ -16,7 +16,8 @@
 https://engineeringlab24.blogspot.com/2019/10/t-example-output-1000-999-998-997-996.html?m=0
 
 4. প্রোগামিং সমস্যাঃ ভাজক
-Dimik Oj প্রোগামিং সমস্যা - ৪ - গুণনীয়ক (ভাজক) বের করতে হবে ~ Engineering LAB24
+
+[Dimik Oj প্রোগামিং সমস্যা - ৪ - গুণনীয়ক (ভাজক) বের করতে হবে ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj_8.html)
 
 5. Simple sum https://www.beecrowd.com.br/judge/en/problems/view/1003
 
