@@ -1,6 +1,7 @@
 ## C-Programming
 ### C programming book list: 
 [কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)
+[Dawn of Programming Contest](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFudG84NnxneDplNjM5ZjhlYzYxMWY1N2Q)
 
 ## প্রোগামিং সমস্যা 
 
