@@ -40,7 +40,17 @@ https://engineeringlab24.blogspot.com/2019/10/t-example-output-1000-999-998-997-
 
 10. Simple Sort - https://www.beecrowd.com.br/judge/en/problems/view/1042 
 
+11. Positive Numbers - https://www.beecrowd.com.br/judge/en/problems/view/1060
 
+12. Age in Days - https://www.beecrowd.com.br/judge/en/problems/view/1020	
+
+13. Salary with bonus - https://www.beecrowd.com.br/judge/en/problems/view/1009	
+
+14. Odd or Even - https://www.beecrowd.com.br/judge/en/problems/view/1074	
+
+15. Even Square - https://www.beecrowd.com.br/judge/en/problems/view/1073
+
+16. Simple factorial - https://www.beecrowd.com.br/judge/en/problems/view/1153
 
 
 
