@@ -16,7 +16,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 - Please check your spellings before making a PR
 - Comment code properly.
 
-<img src= "Practice/Screenshot.png" width=800>
+<img src= "Practice/Screenshot.png" width=1000>
 
 ## প্রোগামিং বই:
 
