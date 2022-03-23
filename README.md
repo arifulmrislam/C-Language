@@ -18,15 +18,15 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 ## প্রোগামিং বই:
 
-[কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)
+- [কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)
 
-[C Programming Absolute Beginner's Guide](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
+- [C Programming Absolute Beginner's Guide](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
 
-[Dawn of Programming Contest](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFudG84NnxneDplNjM5ZjhlYzYxMWY1N2Q)
+- [Dawn of Programming Contest](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFudG84NnxneDplNjM5ZjhlYzYxMWY1N2Q)
 
-[Data Structures And Algorithms Roadmap](https://github.com/yuvrajverma01/Data-Structures-And-Algorithms-Roadmap)
+- [Data Structures And Algorithms Roadmap](https://github.com/yuvrajverma01/Data-Structures-And-Algorithms-Roadmap)
 
-[52 Programming Problems and Solution](https://drive.google.com/file/d/1ZvkZOrdpJezviiUGHKmy2BNivtygASsT/view?fbclid=IwAR0cmTdxl8Z6oI-OtTO0wQ5blYZQqLnWsuOPypolDJLs6d-XYncQUeEZmdQ)
+- [52 Programming Problems and Solution](https://drive.google.com/file/d/1ZvkZOrdpJezviiUGHKmy2BNivtygASsT/view?fbclid=IwAR0cmTdxl8Z6oI-OtTO0wQ5blYZQqLnWsuOPypolDJLs6d-XYncQUeEZmdQ)
 
 ## প্রোগামিং সমস্যা: 
 
