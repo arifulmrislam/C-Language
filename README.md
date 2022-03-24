@@ -72,6 +72,14 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 16. Simple factorial - https://www.beecrowd.com.br/judge/en/problems/view/1153
 
+17. Prime Number - https://www.beecrowd.com.br/judge/en/problems/view/1165
+
+18. Converting to Hexadecimal - https://www.beecrowd.com.br/judge/en/problems/view/1957
+
+19. Distancce - https://www.beecrowd.com.br/judge/en/problems/view/1016
+
+20. Animal - https://www.beecrowd.com.br/judge/en/problems/view/1049
+
 
 ## Contributing
 
