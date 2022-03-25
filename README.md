@@ -30,6 +30,8 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [52 Programming Problems and Solution](https://drive.google.com/file/d/1ZvkZOrdpJezviiUGHKmy2BNivtygASsT/view?fbclid=IwAR0cmTdxl8Z6oI-OtTO0wQ5blYZQqLnWsuOPypolDJLs6d-XYncQUeEZmdQ)
 
+- [CP Computer Programming- Tamim Shariar Subeen](https://docs.google.com/file/d/0B2ntYqCgNmgJakVVUDVHR005ZTQ/edit?resourcekey=0-qCavR3wlTDFQ4JLBWrCBbw)
+
 ## প্রোগামিং সমস্যা: 
 
 1. প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )
