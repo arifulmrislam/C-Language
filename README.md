@@ -34,6 +34,8 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 ## প্রোগামিং সমস্যা: 
 
+*** [https://mycareerwise.com/programming/category/basic-programs](https://mycareerwise.com/programming/category/basic-programs)
+
 1. প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )
 
       [Dimik Oj -প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )|৫২ টি প্রোগামিং সমস্যা ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj.html)
