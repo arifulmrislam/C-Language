@@ -34,7 +34,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 ## প্রোগামিং সমস্যা: 
 
-### - [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
+### [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
 
 1. প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )
 
