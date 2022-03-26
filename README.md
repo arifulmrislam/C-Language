@@ -32,9 +32,9 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [CP Computer Programming- Tamim Shariar Subeen](https://docs.google.com/file/d/0B2ntYqCgNmgJakVVUDVHR005ZTQ/edit?resourcekey=0-qCavR3wlTDFQ4JLBWrCBbw)
 
-## প্রোগামিং সমস্যা: 
+- [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
 
-### [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
+## প্রোগামিং সমস্যা: 
 
 1. প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )
 
