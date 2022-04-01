@@ -84,6 +84,16 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 20. Animal - https://www.beecrowd.com.br/judge/en/problems/view/1049
 
+21. Weighted Averages - https://www.beecrowd.com.br/judge/en/problems/view/1079
+
+22. Ascending and Descending - https://www.beecrowd.com.br/judge/en/problems/view/1113
+
+23. Multiples of 13 - https://www.beecrowd.com.br/judge/en/problems/view/1132
+
+24. Rest of a Division - https://www.beecrowd.com.br/judge/en/problems/view/1133
+
+25. Logical Sequence - https://www.beecrowd.com.br/judge/en/problems/view/1145
+
 
 ## Contributing
 
