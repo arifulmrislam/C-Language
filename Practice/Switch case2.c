@@ -4,9 +4,9 @@
     switch(a>=1){
     case 1:
         printf("Hi\n");
-		break;
+	break;
     case 2:
-		printf("Hello\n");
+	printf("Hello\n");
         break;
     default:
         printf("Good bye\n");
