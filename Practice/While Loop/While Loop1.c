@@ -2,7 +2,7 @@
 int main()
 {
     int money = 0;
-    int target = 100;
+    int target = 120;
 
     while(money < target){
         printf("Need more money. Enter amount: ");
