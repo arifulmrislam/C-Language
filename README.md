@@ -20,7 +20,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 ## প্রোগামিং বই:
 
-- [কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)
+- [কম্পিউটার প্রোগ্রামিং বই](http://cpbook.subeen.com/)-Tamim Shahriar
 
 - [C Programming Absolute Beginner's Guide](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
 
