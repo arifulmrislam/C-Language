@@ -12,30 +12,30 @@ int main()
 //        printf("Found %d",pos - n);
 //    }
 
-//    char text[100], pattern[100];
-//    gets(text);
-//    gets(pattern);
-//
-//    char *pos=strstr(text,pattern);
-//    if(!pos){
-//        printf("Not found");
-//    }
-//    else{
-//        printf("Found %d",pos - text);
-//    }
-
-
-    char text[100];
+    char text[100], pattern[100];
     gets(text);
-    char pattern;
-    scanf("%c",&pattern);
-    char * cur = text;
+    gets(pattern);
 
-    while(cur){
-        char *pos = strchr(cur,pattern);
-        if(pos==NULL)       break;
-        printf("Found at %d\n",pos-text);
-        cur = pos+1;
-        }
+    char *pos=strstr(text,pattern);
+    if(!pos){
+        printf("Not found");
+    }
+    else{
+        printf("Found %d",pos - text);
+    }
+
+
+//    char text[100];
+//    gets(text);
+//    char pattern;
+//    scanf("%c",&pattern);
+//    char * cur = text;
+//
+//    while(cur){
+//        char *pos = strchr(cur,pattern);
+//        if(pos==NULL)       break;
+//        printf("Found at %d\n",pos-text);
+//        cur = pos+1;
+//        }
 
 }
