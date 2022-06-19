@@ -34,65 +34,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
 
-## প্রোগামিং সমস্যা: 
 
-1. প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )
-
-      [Dimik Oj -প্রোগামিং সমস্যা - ১ - ( জোড়-বিজোড় ১ )|৫২ টি প্রোগামিং সমস্যা ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj.html)
-
-2. প্রোগামিং সমস্যা - 2 (জোড়-বিজোড় 2)
-
-      [Dimik Oj প্রোগামিং সমস্যা - 2 (জোড়-বিজোড় 2) ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj-2-2.html)
-
-3. প্রোগামিং সমস্যা - 3 ( অধোগামী সংখ্যা )
-
-      https://engineeringlab24.blogspot.com/2019/10/t-example-output-1000-999-998-997-996.html?m=0
-
-4. প্রোগামিং সমস্যাঃ ভাজক
-
-      [Dimik Oj প্রোগামিং সমস্যা - ৪ - গুণনীয়ক (ভাজক) বের করতে হবে ~ Engineering LAB24](https://engineeringlab24.blogspot.com/2019/10/dimik-oj_8.html)
-
-5. Simple sum - https://www.beecrowd.com.br/judge/en/problems/view/1003
-
-6. Average - https://www.beecrowd.com.br/judge/en/problems/view/1006
-
-7. Time conversion - https://www.beecrowd.com.br/judge/en/problems/view/1019
-
-8. Salary - https://www.beecrowd.com.br/judge/en/problems/view/1008
-
-9. Consumption - https://www.beecrowd.com.br/judge/en/problems/view/1014
-
-10. Simple Sort - https://www.beecrowd.com.br/judge/en/problems/view/1042 
-
-11. Positive Numbers - https://www.beecrowd.com.br/judge/en/problems/view/1060
-
-12. Age in Days - https://www.beecrowd.com.br/judge/en/problems/view/1020	
-
-13. Salary with bonus - https://www.beecrowd.com.br/judge/en/problems/view/1009	
-
-14. Odd or Even - https://www.beecrowd.com.br/judge/en/problems/view/1074	
-
-15. Even Square - https://www.beecrowd.com.br/judge/en/problems/view/1073
-
-16. Simple factorial - https://www.beecrowd.com.br/judge/en/problems/view/1153
-
-17. Prime Number - https://www.beecrowd.com.br/judge/en/problems/view/1165
-
-18. Converting to Hexadecimal - https://www.beecrowd.com.br/judge/en/problems/view/1957
-
-19. Distancce - https://www.beecrowd.com.br/judge/en/problems/view/1016
-
-20. Animal - https://www.beecrowd.com.br/judge/en/problems/view/1049
-
-21. Weighted Averages - https://www.beecrowd.com.br/judge/en/problems/view/1079
-
-22. Ascending and Descending - https://www.beecrowd.com.br/judge/en/problems/view/1113
-
-23. Multiples of 13 - https://www.beecrowd.com.br/judge/en/problems/view/1132
-
-24. Rest of a Division - https://www.beecrowd.com.br/judge/en/problems/view/1133
-
-25. Logical Sequence - https://www.beecrowd.com.br/judge/en/problems/view/1145
 
 
 ## Contributing
