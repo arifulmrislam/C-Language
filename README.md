@@ -34,6 +34,8 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
 
+- [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&list=PLfqMhTWNBTe25HU2y-3Kx6MBsasawd61U)
+
 
 
 
