@@ -36,6 +36,8 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&list=PLfqMhTWNBTe25HU2y-3Kx6MBsasawd61U)
 
+- [C Tutorial Notes](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD)
+
 
 
 
