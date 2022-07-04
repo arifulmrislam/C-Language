@@ -24,12 +24,6 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [C Programming Absolute Beginner's Guide](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
 
-- [Dawn of Programming Contest](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFudG84NnxneDplNjM5ZjhlYzYxMWY1N2Q)
-
-- [Data Structures And Algorithms Roadmap](https://github.com/yuvrajverma01/Data-Structures-And-Algorithms-Roadmap)
-
-- [52 Programming Problems and Solution](https://drive.google.com/file/d/1ZvkZOrdpJezviiUGHKmy2BNivtygASsT/view?fbclid=IwAR0cmTdxl8Z6oI-OtTO0wQ5blYZQqLnWsuOPypolDJLs6d-XYncQUeEZmdQ)
-
 - [CP Computer Programming- Tamim Shariar Subeen](https://docs.google.com/file/d/0B2ntYqCgNmgJakVVUDVHR005ZTQ/edit?resourcekey=0-qCavR3wlTDFQ4JLBWrCBbw)
 
 - [50 Basic Programes](https://mycareerwise.com/programming/category/basic-programs)
