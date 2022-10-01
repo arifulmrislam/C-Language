@@ -32,7 +32,9 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - [C Tutorial Notes](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD)
 
+## Topic wise C programming Exercises, Practice, Solution
 
+- [Function](https://github.com/arifulmrislam/C-Language-Problems-and-Solutions/tree/master/Topic%20wise%20C%20programming%20Exercises%2C%20Practice%2C%20Solution/Function)
 
 
 ## Contributing
